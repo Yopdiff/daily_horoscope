@@ -1,4 +1,4 @@
-Daily Horoscope
+## Daily Horoscope
 Project started: Oct 02 2024
 
 Requirements:

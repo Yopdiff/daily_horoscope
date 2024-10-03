@@ -6,6 +6,7 @@ Project started: Oct 02 2024
 <li>Webstie: React native(maybe)</li>
 <li>Data: the horoscope data samples.</li>
 </ul>
+
 **Functionalities**:
 <ul>
 <li>Importing the random sample from the horoscope database.</li>

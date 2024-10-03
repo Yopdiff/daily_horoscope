@@ -1,0 +1,11 @@
+#ignore the vscode configure file
+.vscode
+
+#ignore the content of vscode configure file
+.vscode/.
+
+#ignore executables
+.exe
+
+#ignore any .out compiled file
+.out

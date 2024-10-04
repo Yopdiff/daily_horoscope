@@ -4,6 +4,7 @@ Project started: Oct 02 2024
 **Requirements**:
 <ul>
 <li>Webstie: React native(maybe)</li>
+<li>Luck Score, today's fortune</li>
 <li>Data: the horoscope data samples.</li>
 </ul>
 

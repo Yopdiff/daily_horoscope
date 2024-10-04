@@ -22,6 +22,34 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 20px;
+}
+
+.title {
+  font-size: 2.0em;
+  margin-bottom: 20px;
+}
+
+.potato {
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.HoroName {
+  font-size: 1.0em; /* Larger font size for the name */
+  margin-bottom: 10px;
+}
+
+.score {
+  font-size: 1.5em; /* Medium font size for the score */
+  margin-bottom: 20px;
+}
+
+.Detail {
+  font-size: 0.8em; /* Smaller font size for the detail */
+  margin-bottom: 10px;
 }
 
 .App-link {
